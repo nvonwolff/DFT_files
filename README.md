@@ -1,6 +1,6 @@
 # Gaussian_files
 
-Collection of python scripts to write Gaussian/Orca DFT input files from xyz coordinates (to be finished) and to parse DFT output files
+Collection of python scripts to write Gaussian/Orca DFT input files from xyz coordinates (to be finished) and to parse DFT output files (to be added)
 
 ---- xyz_to_com.py ----
 
