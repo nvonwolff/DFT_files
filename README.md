@@ -2,7 +2,7 @@
 
 Collection of python scripts to write Gaussian/Orca DFT input files from xyz coordinates (to be finished) and to parse DFT output files (to be added)
 
----- xyz_to_com.py ----
+## xyz_to_com.py 
 
 This script is to be placed into the same folder as where the xyz files are stored.
 This folder should also contain a template.com template gaussian input file with the details of the Gaussian job
