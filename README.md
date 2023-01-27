@@ -10,6 +10,6 @@ The first line of this template.com file should contain: %chk=name.chk
 
 The scripts uses the template.com file to generate new .com files of the same name as the initial .xyz files and replaces "name.chk" with the name of the xyz file to generate the corresponding .chk file with the correct naming. It appends the xyz coordinates after the last written line of the template.com file
 
-## xyz_to_com.py 
+## xyz_to_inp.py 
 
 This script will generate a simple Orca input file for each xyz file of the same name as the xyz file. The Orca input file uses density fitting/RoI approximation to speed up the calculation
